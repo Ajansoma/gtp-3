@@ -26,9 +26,9 @@ const Header = () => {
             </button>
           </div>
         </div>
-        <div className="mt-9 flex flex-col items-center lg:flex-row lg:gap-3">
+        <div className="mt-9 flex flex-col items-center lg:flex-row lg:gap-3 mb-8 xl:mb-0">
           <img src={groupImage} alt="group Image" className="w-44 h-9" />
-          <div className="mb-8 text-white font-medium text-xs xl:mb-0">
+          <div className="text-xs text-white font-medium sm:text-sm">
             1,600 people requested access a visit in last 24 hours
           </div>
         </div>

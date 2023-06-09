@@ -25,6 +25,9 @@ export default {
           'blog': '#042c54',
           'footer': '#031B34',
           'input': '#052D56',
+          'filterA': '#1B78DE',
+          'filterB': '#0F4279',
+          'filterC': '#07325F',
         },
         gradient: {
           'text-100': '#AE67FA',
