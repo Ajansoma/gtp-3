@@ -41,7 +41,7 @@ const Features = () => {
               title="Really boy law county"
               text="Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush"
               className="grid grid-cols-2 gap-8 items-center mb-5"
-              titleSize="text-lg -mt-5"
+              titleSize="text-lg  -mt-4  sm:text-lg "
               bodySize="text-xs sm:text-sm"
             />
           </div>
