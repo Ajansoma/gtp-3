@@ -1,6 +1,6 @@
-import Navbar from './Components/Navbar/Navbar';
-import Cta from './Components/Cta/Cta';
-import Brand from './Components/Brand/Brand';
+import Navbar from './Components/Navbar';
+import Cta from './Components/Cta';
+import Brand from './Components/Brand';
 import {
   Blog,
   Features,
