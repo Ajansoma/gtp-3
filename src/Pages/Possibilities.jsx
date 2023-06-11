@@ -2,11 +2,14 @@ import FeatureImage from '../assets/FeatureImage.png';
 
 const Possibilities = () => {
   return (
-    <div className="p-8 md:px-16 md:py-8 lg:px-24 lg:py-8 bg-bg-body items-center  lg:flex gap-16">
+    <div
+      className="p-8 md:px-16 md:py-8 lg:px-24 lg:py-8 bg-bg-body items-center  lg:flex gap-16"
+      id="#possibilities"
+    >
       <img
         src={FeatureImage}
         alt="Feature Image"
-        className="h-full lg:w-[546px] lg:h-[607.53px] object-contain"
+        className="h-3/4 w-3/4 lg:w-[546px] lg:h-[607.53px] object-contain"
       />
       <div className="mt-10 lg:mt-0">
         <p className="text-text-500 text-base font-medium mb-3">

@@ -2,7 +2,10 @@ import Feature from '../Components/Feature';
 
 const WhatGPT = () => {
   return (
-    <div className="p-8 md:px-16 md:py-8 lg:px-24 lg:py-8 bg-bg-body shadow-lg shadow-bg-bg-body-500/50 relative">
+    <div
+      className="p-8 md:px-16 md:py-8 lg:px-24 lg:py-8 bg-bg-body shadow-lg shadow-bg-bg-body-500/50 relative"
+      id="#wgpt3"
+    >
       <div className="w-full min-h-[695px] bg-bg-input p-8 md:px-16 py-16 lg:px-24">
         <div className="absolute w-32 h-32 bg-bg-filterB rounded-full left-24 top-9 filter blur-[60px]"></div>
         <div className="absolute w-52 h-52 bg-bg-filterA rounded-full right-28 bottom-10 filter blur-[100px]"></div>
